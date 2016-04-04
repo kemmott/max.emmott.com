@@ -1,0 +1,10 @@
+<html>
+<body>
+<p>
+	(PHP) <a href="test.php">General PHP Test</a>
+</p>
+<p>
+	(PHP) <a href="sneak.php">All sorts of stuff convertor</a><br />
+</p>
+</body>
+</html>
